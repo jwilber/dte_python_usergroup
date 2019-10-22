@@ -23,31 +23,36 @@ When prompted, click `Run`:
 
 ### Step 3: Installation Instructions (Make Sure To Do Part E !)
 
-A.
+### A.
+
 ![step 4](images/step4.PNG)
 
-Click `Next`:
+### Click `Next`:
 
-B.
+### B.
+
 ![step 5](images/step5.PNG)
 
-Click `I Agree`:
+### Click `I Agree`:
 
-C.
+### C.
+
 ![step 6](images/step6.PNG)
 
-Click `Next`:
+### Click `Next`:
 
-D.
+### D.
+
 ![step 7](images/step7.PNG)
 
-Click `Next`:
+### Click `Next`:
 
-E.
+### E.
+
 ![step 8](images/step8.PNG)
 
-Check the box that says `Add Anaconda to my PATH environment variable`.
+### Check the box that says `Add Anaconda to my PATH environment variable`.
 
-Click `Install`.
+### Click `Install`.
 
 
